@@ -1,0 +1,42 @@
+body {
+  background: linear-gradient(#777777,#191919);
+  margin: 5px;
+  max-height: 100%;
+}
+
+footer {
+  color: #ffffff;
+  margin: 20px; 
+  float: left;
+}
+
+button {
+  color: #363636;
+  padding: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 3px;
+  margin-left: 3px;
+  float: right;
+}
+
+button:hover {
+  background-color: darkgray;
+}
+
+.heading {
+  background-color: silver;
+  padding: 15px;
+  margin: 5px;
+  align-items: center;
+}
+
+.navbar {
+  margin: 20px;
+}
+
+.para {
+  background-color: silver;
+  padding: 15px;
+  margin: 5px;
+}
